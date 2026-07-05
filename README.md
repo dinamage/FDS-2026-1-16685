@@ -1,7 +1,5 @@
 # FDS-2026-1-16685
 
-# FDS-2026-1-16685
-
 ## Objetivo del proyecto
 
 Analizar el conjunto de datos **Trending YouTube Video Statistics**, correspondiente a videos en tendencia de YouTube en Gran Bretaña, con el fin de identificar patrones relacionados con las visualizaciones, los likes, los comentarios, las categorías y los canales de mayor impacto.
