@@ -30,21 +30,6 @@ El dataset contiene **38 916 registros** y variables asociadas a videos de YouTu
 
 Además, se utilizó el archivo `GB_category_id.json` para crear la variable `category_name`, y se generó la variable derivada `ratio_likes`.
 
-## Estructura del repositorio
-
-```text
-FDS-2026-1-16685/
-├── data/
-│   ├── GBvideos_cc50_202101.csv
-│   ├── GB_category_id.json
-│   └── GBvideos_limpio_preparado.csv
-├── code/
-│   └── upc_2026_01_16685_03_tf_final.ipynb
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
 ## Metodología CRISP-DM
 
 ### 1. Comprensión del negocio
